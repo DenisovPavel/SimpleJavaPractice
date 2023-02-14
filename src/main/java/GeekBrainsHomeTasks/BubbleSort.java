@@ -1,7 +1,5 @@
 package GeekBrainsHomeTasks;
 
-import P1.A;
-
 public class BubbleSort {
     public static void Bubble(int[] Array) {
         int sorted_size = 0; //отсортрованный массив
